@@ -1,0 +1,10 @@
+C:\CursoCSharp\systemVenda\systemVenda\bin\Debug\systemVenda.exe.config
+C:\CursoCSharp\systemVenda\bin\Debug\systemVenda.exe.config
+C:\CursoCSharp\systemVenda\bin\Debug\systemVenda.exe
+C:\CursoCSharp\systemVenda\bin\Debug\systemVenda.pdb
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.csprojResolveAssemblyReference.cache
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.Properties.Resources.resources
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.csproj.GenerateResource.Cache
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.exe
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.pdb
+C:\CursoCSharp\systemVenda\obj\Debug\systemVenda.Menu.resources
