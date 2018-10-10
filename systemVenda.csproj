@@ -32,9 +32,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Money Bag.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -119,6 +123,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\relatorios 40 x 40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Money Bag.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="sistema.DAL\sistema.DAL.csproj">
+      <Project>{bb9f6680-78ab-47e6-86f7-6f83a4e087e4}</Project>
+      <Name>sistema.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
